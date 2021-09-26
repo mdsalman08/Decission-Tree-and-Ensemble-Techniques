@@ -1,1 +1,1 @@
-# Decission-and-Ensemble-Techniques
+# Decission-Tree-and-Ensemble-Techniques
